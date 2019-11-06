@@ -1,11 +1,9 @@
-### Artículo 11 ###
+### Artículo 12 ###
 
 La ciudadanía se suspende:
 
-1. Por ineptitud física o moral, que impida obrar libre y reflexivamente;
-2. Por la condición de sirviente a sueldo, peón jornalero, simple soldado de línea, notoriamente vago o legalmente procesado en causa criminal, de que pueda resultar pena corporal o infamante;
-3. Por el hábito de ebriedad;
-4. Por no haber cumplido veinte años de edad, menos siendo casado desde los diez y ocho.
-5. Por no saber leer ni escribir, los que entren al ejercicio de la ciudadanía desde el año de mil ochocientos cuarenta en adelante;
-6. Por el estado de deudor fallido, declarado tal por juez competente;
-7. Por deudor al Fisco, declarado moroso.
+1. Por ineptitud física o mental, que impida obrar libre y reflexivamente;
+2. Por la condición de simple soldado de línea;
+3. Por la condición de legalmente procesado en causa criminal, de que pueda resultar pena corporal;
+4. Por no haber cumplido 18 años de edad;
+5. Por sentencia que imponga pena de destierro, prisión, penitenciaría o inhabilitación para el ejercicio de derechos políticos durante el tiempo de la condena.

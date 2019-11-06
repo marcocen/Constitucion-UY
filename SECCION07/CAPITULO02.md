@@ -1,12 +1,36 @@
-### Artículo 79 ###
+### Artículo 71 ###
 
-El Presidente es jefe superior de la Administración general de la República.
-La conservación del orden y tranquilidad en lo interior y de la seguridad en lo exterior, le están especialmente cometidas.
+El Presidente de la República será elegido directamente por el pueblo, a mayoría simple de votantes, mediante el sistema del doble voto simultáneo y con las garantías que para el sufragio establece la Sección II, considerándose la República como una sola circunscripción.
 
-### Artículo 80 ###
+La elección de Presidente de la República se efectuará el último domingo del mes de Noviembre.
 
-Le corresponde el mando superior de todas las fuerzas de mar y tierra, y está exclusivamente encargado de su dirección; pero no podrá mandarlas en persona, sin previo consentimiento de la Asamblea General, por las dos terceras partes de votos.
+### Artículo 72 ###
 
-### Artículo 81 ###
+Para ser nombrado Presidente se necesita: ciudadanía natural y las demás calidades precisas para Senador que fija el artículo 29.
 
-Al Presidente de la República compete también, poner objeciones, o hacer observaciones, sobre los proyectos de ley remitidos por las Cámaras, y suspender su promulgación con las restricciones y calidades prevenidas en la Sección sexta; proponer a las Cámaras proyectos de ley, o modificaciones a las anteriormente dictadas en el modo que previene esta Constitución; pedir a la Asamblea General la continuación de sus sesiones, con sujeción a lo que ella misma delibere según el Artículo cuarenta; nombrar y destituir el Ministro o Ministros de su despacho, y los Oficiales de las Secretarías; proveer los empleos civiles y militares, conforme a la Constitución y a las leyes, con obligación de solicitar el acuerdo del Senado, o de la Comisión Permanente, hallándose aquél en receso, para los de Enviados Diplomáticos, Coroneles, y demás Oficiales Superiores de las fuerzas de mar y tierra; destituir los empleados por ineptitud, omisión, o delito: en los dos primeros casos con acuerdo del Senado, o en su receso con el de la Comisión Permanente, y en el último pasando el expediente a los Tribunales de Justicia para que sean juzgados legalmente; iniciar con conocimiento del Senado, y concluir Tratados de paz, amistad, alianza y comercio, necesitando para ratificarlos la aprobación de la Asamblea General; celebrar en la misma forma concordatos con la Silla Apostólica; ejercer el Patronato, y retener o conceder pase a las bulas pontificias conforme a las leyes; declarar la guerra previa resolución de la Asamblea General, después de haber empleado todos los medios de evitarla sin menoscabo del honor e independencia nacional; dar retiros, conceder licencias, y arreglar las pensiones de todos los empleados civiles y militares, con arreglo a las leyes; tomar medidas prontas de seguridad en los casos graves e imprevistos de ataque exterior o conmoción interior, dando inmediatamente cuenta a la Asamblea General, o en su receso, a la Comisión Permanente, de lo ejecutado y sus motivos, estando a su resolución.
+### Artículo 73 ###
+
+Las funciones de Presidente durarán cuatro años y no podrá ser reelecto, ni ocupar la Presidencia durante un interinato o período complementario, sin que medien ocho años entre su cese y la reelección.
+La misma disposición es aplicable al Presidente elegido por el período complementario, cuando hubiese desempeñado la Presidencia por más de un año.
+
+### Artículo 74 ###
+
+Antes de entrar en el ejercicio de su cargo, el Presidente de la República, el 1º de Marzo siguiente a su elección, hará ante el Presidente del Senado y en presencia de ambas Cámaras y del Consejo, la siguiente declaración:
+
+"Yo (N.) me comprometo por mi honor a desempeñar lealmente el cargo que se me ha confiado y guardar y defender la Constitución de la República".
+
+### Artículo 75 ###
+
+En los casos de enfermedad o ausencia del Presidente de la República, o mientras se proceda a nueva elección por muerte, renuncia o destitución, o por cesación de hecho, en virtud de haber expirado el término de la ley, le suplirá de inmediato el miembro del Consejo que éste designe, quedando en suspenso en las funciones de Consejero.
+
+### Artículo 76 ###
+
+En caso de quedar vacante la Presidencia de la República, la Asamblea General será convocada para elegir, a mayoría absoluta de votos, la persona que debe desempeñarla hasta el 1º de Marzo siguiente a las más próximas elecciones de miembros del Consejo, en cuyo acto deberá elegirse el nuevo Presidente de la República.
+
+### Artículo 77 ###
+
+La dotación de Presidente de la República será fijada por ley, previamente a cada elección, sin que pueda ser alterada mientras dure en el desempeño del cargo.
+
+### Artículo 78 ###
+
+El Senado será el juez de la elección de Presidente de la República.

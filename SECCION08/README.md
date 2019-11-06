@@ -1,2 +1,2 @@
-De los Ministros de Estado
+Del Consejo Nacional de Administración, sus atribuciones, deberes y prerrogativas
 

@@ -1,2 +1,2 @@
-Del gobierno y administración interior de los Departamentos
+Del Poder Judicial, sus diferentes Tribunales y Juzgados y de la Administración de Justicia
 
