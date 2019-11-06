@@ -1,0 +1,12 @@
+### Artículo 79 ###
+
+El Presidente es jefe superior de la Administración general de la República.
+La conservación del orden y tranquilidad en lo interior y de la seguridad en lo exterior, le están especialmente cometidas.
+
+### Artículo 80 ###
+
+Le corresponde el mando superior de todas las fuerzas de mar y tierra, y está exclusivamente encargado de su dirección; pero no podrá mandarlas en persona, sin previo consentimiento de la Asamblea General, por las dos terceras partes de votos.
+
+### Artículo 81 ###
+
+Al Presidente de la República compete también, poner objeciones, o hacer observaciones, sobre los proyectos de ley remitidos por las Cámaras, y suspender su promulgación con las restricciones y calidades prevenidas en la Sección sexta; proponer a las Cámaras proyectos de ley, o modificaciones a las anteriormente dictadas en el modo que previene esta Constitución; pedir a la Asamblea General la continuación de sus sesiones, con sujeción a lo que ella misma delibere según el Artículo cuarenta; nombrar y destituir el Ministro o Ministros de su despacho, y los Oficiales de las Secretarías; proveer los empleos civiles y militares, conforme a la Constitución y a las leyes, con obligación de solicitar el acuerdo del Senado, o de la Comisión Permanente, hallándose aquél en receso, para los de Enviados Diplomáticos, Coroneles, y demás Oficiales Superiores de las fuerzas de mar y tierra; destituir los empleados por ineptitud, omisión, o delito: en los dos primeros casos con acuerdo del Senado, o en su receso con el de la Comisión Permanente, y en el último pasando el expediente a los Tribunales de Justicia para que sean juzgados legalmente; iniciar con conocimiento del Senado, y concluir Tratados de paz, amistad, alianza y comercio, necesitando para ratificarlos la aprobación de la Asamblea General; celebrar en la misma forma concordatos con la Silla Apostólica; ejercer el Patronato, y retener o conceder pase a las bulas pontificias conforme a las leyes; declarar la guerra previa resolución de la Asamblea General, después de haber empleado todos los medios de evitarla sin menoscabo del honor e independencia nacional; dar retiros, conceder licencias, y arreglar las pensiones de todos los empleados civiles y militares, con arreglo a las leyes; tomar medidas prontas de seguridad en los casos graves e imprevistos de ataque exterior o conmoción interior, dando inmediatamente cuenta a la Asamblea General, o en su receso, a la Comisión Permanente, de lo ejecutado y sus motivos, estando a su resolución.

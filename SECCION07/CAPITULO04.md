@@ -1,0 +1,3 @@
+### Artículo 84 ###
+
+El Presidente de la República tendrá la prerrogativa de indultar de la pena capital, previo informe del Tribunal, o Juez, ante quien penda la causa, en los delitos no exceptuados por las leyes, y cuando medien graves y poderosos motivos para ello; también la de no poder ser acusado en el tiempo de su gobierno sino ante la Cámara de Representantes, y por los delitos señalados en el Artículo veintiséis; y la de que esta acusación no pueda hacerse más que durante el ejercicio de sus funciones o un año después, que será el término de su residencia, pasado el cual, nadie podrá ya acusarlo.
