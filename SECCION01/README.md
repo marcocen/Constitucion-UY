@@ -1,1 +1,1 @@
-De la Nación, su soberanía y Culto
+De la Nación y su soberanía

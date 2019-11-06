@@ -1,31 +1,31 @@
+### Artículo 116 ###
+
+La Alta Corte de Justicia se compondrá del número de miembros que la Ley designe.
+
+### Artículo 117 ###
+
+Para ser miembro de la Alta Corte de Justicia se necesita haber ejercido por diez años la profesión de abogado o por ocho la de Magistrado, y en ambos casos tener cuarenta años cumplidos de edad y las demás calidades precisas para ser Senador que establece el artículo 29.
+
+### Artículo 118 ###
+
+Su nombramiento se hará por la Asamblea General y recibirán del Erario Público el sueldo que señale la Ley.
+
+### Artículo 119 ###
+
+A la Alta Corte de Justicia corresponde juzgar a todos los infractores de la Constitución, sin excepción alguna; sobre delitos contra el Derecho de Gentes y causas del Almirantazgo, en las cuestiones de Tratados o negociaciones con Potencias extranjeras; conocer en las causas de Embajadores, Ministros Plenipotenciarios y demás agentes diplomáticos de los gobierno extranjeros.
+
+### Artículo 120 ###
+
+También conocerá en último grado de los juicios que en los casos y forma que designe la Ley se eleven de los Tribunales de Apelaciones.
+
+### Artículo 121 ###
+
+Ejercerá la superintendencia directiva, correccional, consultiva y económica sobre todos los Tribunales y Juzgados de la Nación.
+
 ### Artículo 122 ###
 
-En los mismos pueblos cabeza de los Departamentos se establecerán Juntas con el título de Económico-Administrativas, compuestas de ciudadanos vecinos, con propiedades raíces en sus respectivos distritos, y cuyo número, según la población, no podrá bajar de cinco ni pasar de nueve.
+Nombrará con aprobación del Senado, o en su receso con el de la Comisión Permanente, los ciudadanos que han de componer el Tribunal o Tribunales de Apelaciones.
 
 ### Artículo 123 ###
 
-Serán elegidos por elección directa según el método que prescriba la ley de elecciones.
-
-### Artículo 124 ###
-
-Al mismo tiempo, y en la misma forma, se elegirán otros tantos suplentes para cada Junta.
-
-### Artículo 125 ###
-
-Estos cargos serán puramente concejiles y sin sueldo alguno; durarán tres años en el ejercicio de sus funciones; se reunirán dos veces al año por el tiempo que cada una acuerde, y elegirán presidente de entre sus miembros.
-
-### Artículo 126 ###
-
-Su principal objeto será promover la agricultura, la prosperidad y ventajas del Departamento en todos sus ramos: velar así sobre la educación primaria, como sobre la conservación de los derechos individuales; y proponer a la Legislatura y al Gobierno todas las mejoras que juzgaren necesarias o útiles.
-
-### Artículo 127 ###
-
-Para atender a los objetos a que se contraen las Juntas Económico-Administrativas, dispondrán de los fondos y arbitrios que señale la Ley, en la forma que ella establecerá.
-
-### Artículo 128 ###
-
-Todo establecimiento público, que pueda y quiera costear un Departamento, sin gravamen de la Hacienda Nacional, lo hará por medio de su Junta Económico-Administrativa, con sólo aviso instruido al Presidente de la República.
-
-### Artículo 129 ###
-
-El Poder Ejecutivo formará el Reglamento que sirva para el régimen interior de las Juntas Económico-Administrativas, quienes propondrán las alteraciones o reformas que crean convenientes.
+La ley designará las instancias que haya de haber en los juicios de la Alta Corte de Justicia; estos serán públicos y las sentencias definitivas motivadas por la enunciación expresa de la ley aplicada.

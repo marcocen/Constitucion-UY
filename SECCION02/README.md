@@ -1,1 +1,1 @@
-De la Ciudadanía, sus derechos, modos de suspenderse y perderse
+De la ciudadanía y sus derechos, modos de suspenderse y perderse

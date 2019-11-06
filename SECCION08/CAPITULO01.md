@@ -1,24 +1,34 @@
+### Artículo 82 ###
+
+El Consejo Nacional de Administración se compondrá de nueve miembros, elegidos directamente por el pueblo el último domingo del mes de Noviembre, mediante el sistema del doble voto simultáneo, por lista incompleta, y con las garantías que para el sufragio establece la Sección II, correspondiendo las dos terceras partes de la representación a la lista más votada, y la tercera restante a la del otro partido que le siga en el número de sufragios obtenidos.
+Conjuntamente con los Consejeros titulares se elegirán, en la misma forma, otros tantos suplentes.
+
+### Artículo 83 ###
+
+No puede ser electo Consejero por elección popular el Presidente de la República, si no ha cesado en su cargo seis meses antes de la elección.
+
+### Artículo 84 ###
+
+Ejercerá la Presidencia del Consejo el Consejero elegido en primer término en la lista de la mayoría en la última renovación bienal, y en caso de renuncia, muerte o destitución, hasta la terminación del bienio, el segundo de la misma lista.
+
 ### Artículo 85 ###
 
-Habrá para el despacho, las respectivas Secretarías de Estado, a cargo de uno o más Ministros que no pasarán de tres.
-Las Legislaturas siguientes podrán adoptar el sistema que dicte la experiencia, o exijan las circunstancias.
+Los Consejeros durarán seis años en el ejercicio de sus funciones, debiendo renovarse por terceras partes cada bienio, y gozarán de la asignación que les fijará una ley especial, que deberá dictarse antes de cada integración bienal.
 
 ### Artículo 86 ###
 
-El Ministro o Ministros serán responsables de los decretos u órdenes que firmen.
+El Senado será el juez de la elección.
 
 ### Artículo 87 ###
 
-Para ser Ministro se necesita: 1º ciudadanía natural, o legal con diez años de residencia; 2º treinta años cumplidos de edad.
+Los Consejeros electos tomarán posesión de sus cargos el 1º de Marzo siguiente, y harán ante el Presidente del Senado y en presencia de ambas Cámaras y del Consejo, la siguiente declaración:
+
+"Yo (N.) me comprometo por mi honor a desempeñar lealmente el cargo que se me ha confiado y guardar y defender la Constitución de la República".
 
 ### Artículo 88 ###
 
-Abiertas las sesiones de las Cámaras será obligación de los Ministros dar cuenta particular a cada una de ellas del estado de todo lo concerniente a sus respectivos departamentos.
+Nadie puede volver a ejercer las funciones de Consejero sin que hayan transcurrido dos años desde su cese.
 
 ### Artículo 89 ###
 
-Concluido su ministerio quedan sujetos a residencia por seis meses, y no podrán salir por ningún pretexto fuera del territorio de la República.
-
-### Artículo 90 ###
-
-No salva a los Ministros de responsabilidad por los delitos especificados en el Artículo veintiséis, la orden escrita o verbal del Presidente.
+Para ser elegido miembro del Consejo se requiere, ciudadanía natural o legal con quince años de ejercicio o veinte de residencia en el país y 33 años de edad.

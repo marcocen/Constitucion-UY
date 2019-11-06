@@ -1,76 +1,55 @@
 ### Artículo 130 ###
 
-Los habitantes del Estado tienen derecho a ser protegidos en el goce de su vida, honor, libertad, seguridad y propiedad.
-
-Nadie puede ser privado de estos derechos sino conforme a las leyes.
+El gobierno y administración locales serán ejercidos por una Asamblea Representativa y por uno o más Concejos de Administración autónomos, elegidos popularmente con las garantías que para el sufragio establece la Sección II, y cuyo número será fijado por la Ley.
 
 ### Artículo 131 ###
 
-En el territorio del Estado, nadie nacerá ya esclavo; queda prohibido para siempre su tráfico e introducción en la República.
+El Concejo de Administración estará formado por no menos de tres miembros ni por más de siete.
 
 ### Artículo 132 ###
 
-Los hombres son iguales ante a Ley, sea preceptiva, penal, o tuitiva, no reconociéndose otra distinción entre ellos sino la de los talentos o las virtudes.
+La Ley ordinaria fijará la duración de las Asambleas Representativas, el número de sus miembros, forma y fecha de su elección, condiciones para ser electo, atribuciones de las Asambleas, recursos contra sus resoluciones y la representación de los partidos en los Concejos de Administración.
+
+La Ley podrá también acordar a los extranjeros el derecho de voto activo y pasivo.
 
 ### Artículo 133 ###
 
-Se prohíbe la fundación de mayorazgos, y toda clase de vinculaciones; y ninguna autoridad de la República podrá conceder título alguno de nobleza, honores o distinciones hereditarias.
+La Ley reconocerá a las Asambleas Representativas la facultad de crear impuestos, con la sola limitación de no poder gravar el tránsito, ni crear impuestos interdepartamentales a los artículos de producción nacional.
 
 ### Artículo 134 ###
 
-Las acciones privadas de los hombres, que de ningún modo atacan el orden público ni perjudican a un tercero, están sólo reservadas a Dios y exentas de la autoridad de los Magistrados.
-Ningún habitante del Estado será obligado a hacer lo que no manda la Ley, ni privado de lo que ella no prohíbe.
+Las decisiones de las Asambleas Representativas creando o modificando impuestos, podrán ser apeladas ante el Poder Legislativo por un tercio de los miembros de la Asamblea Representativa, por la mayoría del Concejo de Administración, por el Consejo Nacional o por trescientos ciudadanos inscriptos.
+En los tres primeros casos, la apelación tendrá efecto suspensivo.
 
 ### Artículo 135 ###
 
-La casa del ciudadano es un sagrado inviolable.
-De noche, nadie podrá entrar en ella sin su consentimiento; y de día, sólo de orden expresa del juez competente, por escrito y en los casos determinados por ley.
+Los cargos de las Asambleas Representativas serán honorarios.
 
 ### Artículo 136 ###
 
-Ninguno puede ser penado, ni confinado sin forma de proceso y sentencia legal.
+Los Concejos tendrán los deberes y atribuciones que les acuerden las Leyes, las que establecerán los recursos contra sus resoluciones.
 
 ### Artículo 137 ###
 
-Una de las primeras atenciones de la Asamblea General, será el procurar que, cuanto antes sea posible, se establezca el juicio por jurados en las causas criminales, y aún en las civiles.
+Las autoridades locales nombrarán sus empleados y sancionarán anualmente sus presupuestos dentro de los recursos de que dispongan.
 
 ### Artículo 138 ###
 
-En ningún caso se permitirá que las cárceles sirvan para mortificar, y si sólo para asegurar a los acusados.
+Los Concejos destituirán a los empleados municipales por ineptitud, omisión o delito; en los dos primeros casos con acuerdo de la Asamblea Representativa, pudiendo suspenderlos de inmediato; y en el último, pasando después el expediente a la justicia para que aquéllos sean juzgados legalmente.
 
 ### Artículo 139 ###
 
-En cualquier estado de una causa criminal de que no haya de resultar pena corporal, se pondrá al acusado en libertad, dando fianza según la ley.
+Los miembros de los Concejos durarán tres años en sus funciones.
 
 ### Artículo 140 ###
 
-Los papeles particulares de los ciudadanos, lo mismo que sus correspondencias epistolares, son inviolables, y nunca podrá hacerse su registro, examen o interceptación, fuera de aquellos casos en que la Ley expresamente lo prescriba.
+El número de Concejales, así como su remuneración serán fijados por las Asambleas Representativas.
 
 ### Artículo 141 ###
 
-Es enteramente libre la comunicación de los pensamientos por palabras, escritos privados, o publicados por la prensa en toda materia, sin necesidad de previa censura; quedando responsable el autor, y en su caso el impresor, por los abusos que cometieren, con arreglo a la Ley.
+El veinticinco por ciento de los inscriptos en la localidad tienen la facultad de tomar iniciativas sobre asuntos de interés local.
+El Concejo de Administración deberá considerarlas dentro de los sesenta días de presentadas.
 
 ### Artículo 142 ###
 
-Todo ciudadano tiene el derecho de petición para ante todas y cualesquiera autoridades del Estado.
-
-### Artículo 143 ###
-
-La seguridad individual no podrá suspenderse sino con anuencia de la Asamblea General, o de la Comisión Permanente estando aquella en receso, y en el caso extraordinario de traición, o conspiración contra la Patria; y entonces, sólo será para la aprehensión de los delincuentes.
-
-### Artículo 144 ###
-
-El derecho de propiedad es sagrado e inviolable: a nadie podrá privarse de ella sino conforme a la Ley.
-En el caso de necesitar la Nación la propiedad particular de algún individuo para destinarla a usos públicos, recibirá éste del Tesoro Nacional una justa compensación.
-
-### Artículo 145 ###
-
-Nadie será obligado a prestar auxilios, sean de la clase que fueren, para los ejércitos, ni a franquear su casa para alojamiento de militares, sino de orden del Magistrado civil según la ley, y recibirá de la República la indemnización del perjuicio que en tales casos se le infiera.
-
-### Artículo 146 ###
-
-Todo habitante del Estado puede dedicarse al trabajo, cultivo, industria o comercio que le acomode, como no se oponga al bien público, o al de los ciudadanos.
-
-### Artículo 147 ###
-
-Es libre la entrada de todo individuo en el territorio de la República, su permanencia en él y su salida con sus propiedades, observando las leyes de policía, y salvo perjuicio de tercero.
+La policía prestará su apoyo al Concejo, siempre que éste lo requiera para el cumplimiento de su gestión.

@@ -1,11 +1,11 @@
-### Artículo 1º. ###
+### Artículo 1º ###
 
-El Estado Oriental del Uruguay es la asociación política de todos los ciudadanos comprendidos en los nueve departamentos actuales de su territorio.
+La República Oriental del Uruguay es la asociación política de todos los habitantes comprendidos dentro de su territorio.
 
-### Artículo 2º. ###
+### Artículo 2º ###
 
-El es y será para siempre libre, é independiente de todo poder extranjero.
+Ella es y será para siempre libre e independiente de todo poder extranjero.
 
-### Artículo 3º. ###
+### Artículo 3º ###
 
 Jamás será el patrimonio de persona, ni de familia alguna.

@@ -1,12 +1,5 @@
-### Artículo 40 ###
+### Artículo 38 ###
 
-La Asamblea General empezará sus sesiones ordinarias el día 15 de Febrero de cada año, y las concluirá el 15 de Junio inmediato siguiente.
-Si algún motivo particular exige la continuación de las sesiones, no podrá ser por más de un mes, y con anuencia de las dos terceras partes de sus miembros.
-
-### Artículo 41 ###
-
-Lo que establece el precedente artículo para la apertura de sesiones, no se entenderá respecto del primer período de la primera Legislatura: ésta deberá empezar sus trabajos cuarenta y cinco días después de verificadas las elecciones de sus miembros.
-
-### Artículo 42 ###
-
-Si la Asamblea fuese convocada extraordinariamente, no podrá ocuparse de otros asuntos que los que hubieren motivado su convocación.
+La Asamblea General empezará su sesiones el 15 de Marzo de cada año, sesionando hasta el 15 de Diciembre o sólo hasta el 15 de Octubre en el caso de que haya elección de Representantes, debiendo en tal caso la nueva Asamblea empezar a sesionar el 15 de Febrero siguiente.
+La Asamblea se reunirá en las fechas indicadas sin necesidad de convocatoria especial del Poder Ejecutivo.
+Por razones graves y urgentes, las Cámaras, así como el Poder Ejecutivo, podrán hacer cesar el receso.
